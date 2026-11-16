@@ -1,0 +1,10 @@
+# 1080P 正片和母版太大，不进仓库：自己用 python scripts/render.py . video 渲
+out/mv.mp4
+out/mv_母版.mov
+# 渲染时的中间文件、静帧
+out/_seg/
+out/stills/
+out/textlog*.json
+# 系统和 Python 缓存
+.DS_Store
+__pycache__/
