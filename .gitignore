@@ -1,1 +1,8 @@
 .DS_Store
+__pycache__/
+# 每支 MV 的 1080P 成片、母版和渲染中间文件都不进仓库，只放草稿：自己用 scripts/render.py 渲
+**/out/mv.mp4
+**/out/mv_母版.mov
+**/out/_seg/
+**/out/stills/
+**/out/textlog*.json
