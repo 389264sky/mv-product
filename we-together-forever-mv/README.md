@@ -103,8 +103,9 @@ python scripts/render.py . shots             # 每个镜头一张 → out/stills
 
 ## 署名与许可
 
-- **禁止商业用途**：本工程里作者自己的内容（画面与镜头设计 `scene.js`、`world.js`、`cues.json`，人物模型 `blender/scene.glb` 及渲好的人物帧，旁白文字等）只允许个人学习和非商业使用；未经作者书面同意，不得出售、收费代做或用于广告、商业推广。
+- **禁止商业用途**：本工程里作者自己的内容（画面与镜头设计 `scene.js`、`world.js`、`cues.json`，人物模型 `blender/scene.glb` 及渲好的人物帧，旁白文字等）采用 CC BY-NC 4.0（署名-非商业性使用）许可，全文和说明见仓库根目录的 `LICENSE`。可以个人学习、修改，换上你们的照片做自己的 MV 分享，但要注明出处，且不得用于任何商业用途（出售、收费代做、广告或商业推广）；商用需作者书面同意。
 - 下面几项是第三方的东西，按它们各自的许可来，不受上一条限制，也不因上一条而放宽：
   - `scripts/`、`mv/mv.js` 来自 mv-director，MIT 许可，见 `scripts/LICENSE`。
+  - `lib/` 是 three.js，MIT 许可（Copyright 2010-2024 Three.js Authors）。
   - 字体许可见 `fonts/字体授权.md` 和 `fonts/OFL_*.txt`。
   - 歌曲《我会等》（戴羽彤）版权归原权利人，`audio.wav` 只供个人预览，不要公开发布。

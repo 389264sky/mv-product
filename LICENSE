@@ -1,21 +1,23 @@
-MIT License
-
+本仓库的原创内容采用「知识共享 署名-非商业性使用 4.0 国际」许可协议（CC BY-NC 4.0）授权。
 Copyright (c) 2026 389264sky
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+在遵守下列条件的前提下，你可以自由地：
+- 共享：在任何媒介以任何形式复制、发行本作品；
+- 演绎：修改、转换或以本作品为基础进行创作（比如换上你们的照片，做你们自己的 MV）。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+条件：
+- 署名：注明出处（本仓库地址），并说明是否作了修改；
+- 非商业性使用：不得将本作品用于商业目的，包括但不限于出售、收费代做、用于广告或商业推广。商用需作者书面同意。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+协议全文：https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans
+
+下列第三方内容不适用本协议，按各自的许可：
+- we-together-forever-mv/scripts/、we-together-forever-mv/mv/mv.js：来自 mv-director，MIT 许可，见 we-together-forever-mv/scripts/LICENSE
+- we-together-forever-mv/lib/：three.js，MIT 许可（Copyright 2010-2024 Three.js Authors）
+- we-together-forever-mv/fonts/：各字体按自己的许可，见 fonts/字体授权.md 和 fonts/OFL_*.txt
+- we-together-forever-mv/audio.wav：歌曲《我会等》（戴羽彤），版权归原权利人，只供个人预览
+
+---
+The original content of this repository is licensed under CC BY-NC 4.0 (Attribution-NonCommercial 4.0 International):
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Commercial use is not permitted without the author's written consent. Third-party components listed above keep their own licenses.
