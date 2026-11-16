@@ -1,2 +1,2 @@
 # mv-product
-存放成名mv
+存放成品mv
