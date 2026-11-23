@@ -6,3 +6,8 @@ __pycache__/
 **/out/_seg/
 **/out/stills/
 **/out/textlog*.json
+# jingzhe-full：草稿 130M 超过 GitHub 单文件上限；备份和日志不进仓库
+jingzhe-full/out/mv_草稿.mp4
+jingzhe-full/out/bak/
+jingzhe-full/**/preview.log
+jingzhe-full/out/blender/job.json
