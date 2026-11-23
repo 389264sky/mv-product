@@ -1,0 +1,290 @@
+{
+  "title": "黄仁勋回归",
+  "concept": "一块熄灭的芯片在他回来那一刻重新亮起绿色：全片黑白，只有这块芯片有颜色",
+  "credit": "Music：Two Steps From Hell《Victory》",
+  "story": "2026 年 11 月 23 日，英伟达董事会一致投票，恢复黄仁勋总裁、CEO 和董事职务，即刻生效。他说等不及要回去工作。",
+  "board": [],
+  "look": {
+    "bg": "#F3F0E8",
+    "accent": "#76B900",
+    "vignette": 0,
+    "grain": 0.08,
+    "font": "NotoSansSC-900",
+    "titleFont": "NotoSansSC-900"
+  },
+  "images": {
+    "s_campus": "img/s_campus.png",
+    "s_press": "img/s_press.png",
+    "s_board": "img/s_board.png",
+    "s_stamp": "img/s_stamp.png",
+    "s_servers": "img/s_servers.png",
+    "hero_back": "img/hero_back.png",
+    "s_shoes": "img/s_shoes.png",
+    "s_eyes": "img/s_eyes.png",
+    "hero_desk": "img/hero_desk.png",
+    "s_hands": "img/s_hands.png",
+    "s_office": "img/s_office.png",
+    "s_dawn": "img/s_dawn.png",
+    "hand_a": "img/hand_a.png",
+    "hand_b": "img/hand_b.png",
+    "hero_turn": "img/hero_turn.png",
+    "hero_stride": "img/hero_stride.png",
+    "hero_close": "img/hero_close.png",
+    "hero_chip": "img/hero_chip.png",
+    "chip": "img/chip.png",
+    "chip_dark": "img/chip_dark.png",
+    "jh_talk": "img/jh_talk.png",
+    "jh_heroic": "img/jh_heroic.png",
+    "jh_gesture": "img/jh_gesture.png",
+    "jh_smile": "img/jh_smile.png",
+    "jh_hold": "img/jh_hold.png",
+    "s_desk": "img/s_desk.png",
+    "th_campus": "img/th_campus.png",
+    "th_board": "img/th_board.png",
+    "th_heroic": "img/th_heroic.png",
+    "th_chip": "img/th_chip.png"
+  },
+  "arc": [
+    [
+      "bar1",
+      0.8
+    ],
+    [
+      "bar6",
+      0.85
+    ],
+    [
+      "bar12",
+      0.95
+    ],
+    [
+      "bar16",
+      1.0
+    ],
+    [
+      "bar33",
+      1.0
+    ],
+    [
+      "bar34",
+      0.5
+    ],
+    [
+      "bar43",
+      0.25
+    ],
+    [
+      "end",
+      0.1
+    ]
+  ],
+  "shots": [
+    {
+      "at": 0,
+      "scene": "campus",
+      "why": "开场：黑页在第一拍从中间打开，露出 11 月 23 日夜里的大楼，片名砸在广场上"
+    },
+    {
+      "at": "bar3",
+      "scene": "press",
+      "in": "push-left",
+      "why": "新东西：公告付印，董事会恢复其职务的标题从滚筒里出来",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar5",
+      "scene": "effective",
+      "in": "fade",
+      "why": "公告的关键词“即刻生效”；左格是还没亮的芯片，给后面亮绿留反差",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar6",
+      "scene": "board",
+      "in": "wipe",
+      "why": "进第二段：回到作出决定的董事会，成员都是无脸剪影",
+      "inDur": 3
+    },
+    {
+      "at": "bar8",
+      "scene": "vote",
+      "in": "push-up",
+      "why": "投票：举手的分格每小节翻倍 1→2→4→8",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar12",
+      "scene": "unanimous",
+      "in": "fade",
+      "why": "分格合成一整页：全票通过",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar14",
+      "scene": "stamps",
+      "in": "push-right",
+      "why": "三枚印章依次盖下：总裁、CEO、董事",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar16",
+      "scene": "corridor",
+      "in": "wipe",
+      "why": "进回归段：皮衣背影走向走廊尽头亮着的门，镜头跟着往前推",
+      "inDur": 3
+    },
+    {
+      "at": "bar18",
+      "scene": "shoes",
+      "in": "push-down",
+      "why": "新东西：皮鞋落地的特写，每一步一个大字",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar20",
+      "scene": "eyes",
+      "in": "fade",
+      "why": "从脚切到眼睛：第一次看清他，镜片上一道反光",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar22",
+      "scene": "talk",
+      "in": "push-left",
+      "why": "他开口，对白是公告原话：很荣幸回到英伟达",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar24",
+      "scene": "chipon",
+      "in": "iris",
+      "why": "第一段熄灭的芯片在这里亮成绿色，全片第一次出现颜色",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar25",
+      "scene": "servers",
+      "in": "push-up",
+      "why": "绿光从芯片传开：机房指示灯从深处一路亮到眼前",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar26",
+      "scene": "stock",
+      "in": "wipe",
+      "why": "市场反应：绿色股价线冲破画框，盘前大涨近三成",
+      "inDur": 3
+    },
+    {
+      "at": "bar28",
+      "scene": "hold",
+      "in": "push-right",
+      "why": "他举起显卡，显卡被印成绿色",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar30",
+      "scene": "key",
+      "in": "wipe",
+      "why": "高潮：他摊开手，身旁的芯片亮着绿色，说出公告里的原话",
+      "inDur": 3
+    },
+    {
+      "at": "bar32",
+      "scene": "heroic",
+      "in": "push-up",
+      "why": "仰拍大特写收住高潮：回来了",
+      "inDur": 1.5
+    },
+    {
+      "at": "bar34",
+      "scene": "office",
+      "in": "fade",
+      "why": "音乐收下来：深夜的大办公室只有他这张桌子亮着，灯光一圈圈向外亮开",
+      "inDur": 3
+    },
+    {
+      "at": "bar37",
+      "scene": "desk",
+      "in": "iris",
+      "why": "镜头到他身后：他坐下开始工作，屏幕上一行行打出绿色代码",
+      "inDur": 3
+    },
+    {
+      "at": "bar40",
+      "scene": "hands",
+      "in": "fade",
+      "why": "新东西：敲键盘的手，兑现那句回去工作",
+      "inDur": 3
+    },
+    {
+      "at": "bar43",
+      "scene": "dawn",
+      "in": "iris",
+      "why": "干到天亮：开场的夜景变成日出，鸟群飞过",
+      "inDur": 3
+    },
+    {
+      "at": "bar46",
+      "scene": "page",
+      "in": "fade",
+      "why": "收成一整页漫画，最后一格留空，写未完待续",
+      "inDur": 3
+    }
+  ],
+  "lyrics": {
+    "default": {},
+    "lines": {}
+  },
+  "moments": [
+    {
+      "at": "bar1",
+      "name": "开场",
+      "big": true,
+      "what": "夜里的大楼铺满整页，星光按拍闪烁"
+    },
+    {
+      "at": "bar6",
+      "name": "董事会",
+      "big": true,
+      "what": "从黑白大字切到整间董事会"
+    },
+    {
+      "at": "bar12",
+      "name": "全票",
+      "big": true,
+      "what": "八格举手合成一只巨手和全票通过四个大字"
+    },
+    {
+      "at": "bar16",
+      "name": "回归开始",
+      "big": true,
+      "what": "整页换成长走廊，他的背影走向尽头亮着的门"
+    },
+    {
+      "at": "bar22",
+      "name": "开口",
+      "big": true,
+      "what": "他第一次正面出现并破格，对白框落下"
+    },
+    {
+      "at": "bar24.3",
+      "name": "芯片亮绿",
+      "big": true,
+      "what": "黑底上熄灭的芯片从中心亮成绿色，全片第一次有颜色"
+    },
+    {
+      "at": "bar26",
+      "name": "股价破框",
+      "big": true,
+      "what": "绿色股价线一路冲出画框"
+    },
+    {
+      "at": "bar30",
+      "name": "高潮",
+      "big": true,
+      "what": "他摊手破格，身旁绿色芯片和最大的一句对白同时出现"
+    }
+  ],
+  "rules": []
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "name": "sec2/eyes",
+  "w": 1536,
+  "h": 864,
+  "seed": 46013,
+  "init": "ink_eyes.png",
+  "denoise": 0.36,
+  "prompt": "Extreme close-up clean black-and-white Japanese manga ink drawing of the same man's eyes, same face: Jensen Huang, age 63, thin metal half-rim rectangular eyeglasses, determined gaze, mature eyes with fine wrinkles, silver-grey eyebrows. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour, no logo, no letters. Fills the frame edge to edge."
+ },
+ {
+  "name": "sec2/desk_back",
+  "w": 1536,
+  "h": 864,
+  "seed": 46031,
+  "prompt": "Manga panel seen from directly behind: a man with voluminous swept-back SILVER-WHITE hair and a black leather jacket sitting at a desk in a dim office at night, both hands on a keyboard, a monitor with a blank glowing white screen in front of him lighting the edges of his hair, shelves at the sides, his face is not visible. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour, no logo, no letters. Fills the frame edge to edge."
+ }
+]

@@ -12,3 +12,11 @@ jingzhe-full/out/bak/
 jingzhe-full/**/preview.log
 jingzhe-full/out/blender/job.json
 jingzhe-full/out/blender_cache/
+# jensen-return：参考照片（out/comfy/input）版权归原作者；生图中间结果、模型缓存、日志不进仓库
+jensen-return/out/comfy/
+jensen-return/stems/.hf/
+jensen-return/stems/.torch/
+jensen-return/out/ref*.jpg
+jensen-return/**/*.log
+jensen-return/out/*.sh
+jensen-return/out/*_before_fix.*

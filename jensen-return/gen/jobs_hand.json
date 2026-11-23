@@ -1,0 +1,32 @@
+[
+ {
+  "name": "hand/hold_a",
+  "prompt": "Clean black-and-white Japanese manga ink drawing of a man's right hand seen from the back, thumb and four fingers clearly drawn gripping the bottom edge of a graphics card, visible knuckles and fingernails, the hand is white paper with crisp black ink lines, the wrist going into a black textured leather jacket sleeve. Only black ink and white paper, no skin colour. Background: flat solid pure green (#00FF00).",
+  "w": 1520,
+  "h": 912,
+  "seed": 45011,
+  "init": "base_hold.png",
+  "mask": "mask_hand.png",
+  "denoise": 0.9
+ },
+ {
+  "name": "hand/hold_b",
+  "prompt": "Clean black-and-white Japanese manga ink drawing of a man's right hand seen from the back, thumb and four fingers clearly drawn gripping the bottom edge of a graphics card, visible knuckles and fingernails, the hand is white paper with crisp black ink lines, the wrist going into a black textured leather jacket sleeve. Only black ink and white paper, no skin colour. Background: flat solid pure green (#00FF00).",
+  "w": 1520,
+  "h": 912,
+  "seed": 45029,
+  "init": "base_hold.png",
+  "mask": "mask_hand.png",
+  "denoise": 0.9
+ },
+ {
+  "name": "hand/hold_c",
+  "prompt": "Clean black-and-white Japanese manga ink drawing of a man's right hand seen from the back, thumb and four fingers clearly drawn gripping the bottom edge of a graphics card, visible knuckles and fingernails, the hand is white paper with crisp black ink lines, the wrist going into a black textured leather jacket sleeve. Only black ink and white paper, no skin colour. Background: flat solid pure green (#00FF00).",
+  "w": 1520,
+  "h": 912,
+  "seed": 45047,
+  "init": "base_hold.png",
+  "mask": "mask_hand.png",
+  "denoise": 0.9
+ }
+]

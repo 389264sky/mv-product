@@ -1,0 +1,38 @@
+[
+ {
+  "name": "face/talk_50",
+  "prompt": "Black-and-white manga ink portrait of the exact same man as in the image, keeping his exact face shape, eyes, nose, mouth, age and expression: Jensen Huang, age 63, broad face, high cheekbones, strong nose, deep laugh lines; voluminous silver-grey hair swept up and back from a high forehead with a side part, drawn as white paper with flowing grey ink strands; thin metal half-rim rectangular eyeglasses; black leather jacket drawn as large solid black shapes with a few sharp white highlights; black T-shirt. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1136,
+  "h": 928,
+  "seed": 41017,
+  "init": "ref_talk.png",
+  "denoise": 0.5
+ },
+ {
+  "name": "face/talk_60",
+  "prompt": "Black-and-white manga ink portrait of the exact same man as in the image, keeping his exact face shape, eyes, nose, mouth, age and expression: Jensen Huang, age 63, broad face, high cheekbones, strong nose, deep laugh lines; voluminous silver-grey hair swept up and back from a high forehead with a side part, drawn as white paper with flowing grey ink strands; thin metal half-rim rectangular eyeglasses; black leather jacket drawn as large solid black shapes with a few sharp white highlights; black T-shirt. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1136,
+  "h": 928,
+  "seed": 41017,
+  "init": "ref_talk.png",
+  "denoise": 0.6
+ },
+ {
+  "name": "face/talk_70",
+  "prompt": "Black-and-white manga ink portrait of the exact same man as in the image, keeping his exact face shape, eyes, nose, mouth, age and expression: Jensen Huang, age 63, broad face, high cheekbones, strong nose, deep laugh lines; voluminous silver-grey hair swept up and back from a high forehead with a side part, drawn as white paper with flowing grey ink strands; thin metal half-rim rectangular eyeglasses; black leather jacket drawn as large solid black shapes with a few sharp white highlights; black T-shirt. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1136,
+  "h": 928,
+  "seed": 41017,
+  "init": "ref_talk.png",
+  "denoise": 0.7
+ },
+ {
+  "name": "face/heroic_60",
+  "prompt": "Black-and-white manga ink portrait of the exact same man as in the image, keeping his exact face shape, eyes, nose, mouth, age and expression: Jensen Huang, age 63, broad face, high cheekbones, strong nose, deep laugh lines; voluminous silver-grey hair swept up and back from a high forehead with a side part, drawn as white paper with flowing grey ink strands; thin metal half-rim rectangular eyeglasses; black leather jacket drawn as large solid black shapes with a few sharp white highlights; black T-shirt. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1008,
+  "h": 1024,
+  "seed": 41019,
+  "init": "ref_heroic.png",
+  "denoise": 0.6
+ }
+]

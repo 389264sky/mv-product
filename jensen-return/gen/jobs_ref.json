@@ -1,0 +1,44 @@
+[
+ {
+  "name": "ref/hero_a",
+  "prompt": "Manga character reference portrait of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neat swept-back salt-and-pepper hair, rounded friendly face, warm confident smile, signature black leather moto jacket with wide lapels and a diagonal zip, black crew-neck T-shirt. Half-body, three-quarter view, one hand raised in a relaxed open gesture. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 1123
+ },
+ {
+  "name": "ref/hero_b",
+  "prompt": "Manga character reference portrait of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neat swept-back salt-and-pepper hair, rounded friendly face, warm confident smile, signature black leather moto jacket with wide lapels and a diagonal zip, black crew-neck T-shirt. Half-body, three-quarter view, one hand raised in a relaxed open gesture. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 2311
+ },
+ {
+  "name": "ref/hero_c",
+  "prompt": "Manga character reference portrait of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neat swept-back salt-and-pepper hair, rounded friendly face, warm confident smile, signature black leather moto jacket with wide lapels and a diagonal zip, black crew-neck T-shirt. Half-body, three-quarter view, one hand raised in a relaxed open gesture. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 3407
+ },
+ {
+  "name": "ref/hero_d",
+  "prompt": "Manga character reference portrait of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neat swept-back salt-and-pepper hair, rounded friendly face, warm confident smile, signature black leather moto jacket with wide lapels and a diagonal zip, black crew-neck T-shirt. Half-body, three-quarter view, one hand raised in a relaxed open gesture. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 4519
+ },
+ {
+  "name": "ref/chip_a",
+  "prompt": "A large square AI accelerator computer chip seen in three-quarter view from above: metal heat spreader frame, rows of tiny contacts along the edges, surrounding memory dies, an original design, not any real brand or model, no logo, no letters or numbers anywhere. The central die is FLAT PURE RED (#FF0000). Everything else is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 5101
+ },
+ {
+  "name": "ref/chip_b",
+  "prompt": "A large square AI accelerator computer chip seen in three-quarter view from above: metal heat spreader frame, rows of tiny contacts along the edges, surrounding memory dies, an original design, not any real brand or model, no logo, no letters or numbers anywhere. The central die is FLAT PURE RED (#FF0000). Everything else is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 6203
+ }
+]

@@ -1,0 +1,128 @@
+[
+ {
+  "name": "film/s_campus",
+  "prompt": "Wide establishing manga panel: a large modern angular glass-and-steel technology campus building at night under a dark sky with stars, empty plaza, a few lit windows, trees, strong perspective, original architecture, no signs. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20011
+ },
+ {
+  "name": "film/s_press",
+  "prompt": "Dynamic close-up manga panel of a huge newspaper printing press: steel rollers spinning, long blank sheets of paper flying through the machine, motion lines, strong diagonal composition, all paper is completely blank. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20108
+ },
+ {
+  "name": "film/s_board",
+  "prompt": "Wide manga panel of a corporate boardroom at night: long polished table in one-point perspective, eight anonymous directors in dark suits sitting around it drawn as solid black silhouettes with no faces, large window with a city skyline behind them, dramatic light from the window. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20205
+ },
+ {
+  "name": "film/hand_a",
+  "prompt": "A single raised human right hand in a dark suit sleeve with white shirt cuff, raised straight up for a vote, palm forward, five clearly drawn fingers, seen from the front, low angle. Not photorealistic, not an engraving, not a woodcut. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 20302
+ },
+ {
+  "name": "film/hand_b",
+  "prompt": "A single raised human left hand in a dark suit sleeve with white shirt cuff, raised for a vote, seen from the side with fingers together, five clearly drawn fingers. Not photorealistic, not an engraving, not a woodcut. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 20399
+ },
+ {
+  "name": "film/s_stamp",
+  "prompt": "Extreme close-up manga panel: a hand gripping a heavy wooden rubber stamp slamming down onto a blank sheet of paper on a desk, impact lines, the stamp face and the paper are completely blank. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20496
+ },
+ {
+  "name": "film/s_servers",
+  "prompt": "Manga panel in one-point perspective down a long data-center aisle: tall server racks on both sides with hundreds of tiny indicator lights and cables, receding to a bright vanishing point, raised floor tiles, no people, no labels. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20593
+ },
+ {
+  "name": "film/hero_back",
+  "prompt": "Manga panel seen from directly behind: a man with short neatly swept-back SILVER-WHITE hair, wearing a black leather moto jacket and black trousers, walking down a long dark corridor toward a tall bright open doorway at the end, his long shadow stretching toward the viewer, full body, one-point perspective. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20690
+ },
+ {
+  "name": "film/s_shoes",
+  "prompt": "Low-angle close-up manga panel of a black leather shoe stepping forward onto a polished floor with a reflection, the hem of black trousers, motion lines, dramatic lighting. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20787
+ },
+ {
+  "name": "film/hero_turn",
+  "prompt": "Manga character art of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neatly swept-back SILVER-WHITE hair drawn as white paper with thin grey ink strands, thick black rectangular-framed eyeglasses with clear lenses, rounded friendly face with simplified manga features, black leather moto jacket drawn as large solid black shapes with a few sharp white highlights, wide lapels, diagonal zip, black crew-neck T-shirt. Seen from behind at three-quarter, he turns his head back over his shoulder toward the viewer with a calm determined look, the glasses clearly visible. Half-body. Not photorealistic, not an engraving, not a woodcut. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 20884
+ },
+ {
+  "name": "film/s_eyes",
+  "prompt": "Extreme close-up manga panel of a man's eyes behind thick black rectangular-framed eyeglasses, determined gaze looking forward, a sharp white glint on one lens, silver-white eyebrows and a few strands of silver-white hair, fine hatching on the skin. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 20981
+ },
+ {
+  "name": "film/hero_stride",
+  "prompt": "Dramatic low-angle full-body manga art of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neatly swept-back SILVER-WHITE hair drawn as white paper with thin grey ink strands, thick black rectangular-framed eyeglasses with clear lenses, rounded friendly face with simplified manga features, black leather moto jacket drawn as large solid black shapes with a few sharp white highlights, wide lapels, diagonal zip, black crew-neck T-shirt, black trousers and black shoes, striding confidently toward the viewer, leather jacket open and swinging, one arm forward. Not photorealistic, not an engraving, not a woodcut. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 832,
+  "h": 1216,
+  "seed": 21078
+ },
+ {
+  "name": "film/hero_close",
+  "prompt": "Close-up manga portrait of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neatly swept-back SILVER-WHITE hair drawn as white paper with thin grey ink strands, thick black rectangular-framed eyeglasses with clear lenses, rounded friendly face with simplified manga features, black leather moto jacket drawn as large solid black shapes with a few sharp white highlights, wide lapels, diagonal zip, black crew-neck T-shirt, facing the viewer, head and shoulders, big warm confident smile. Not photorealistic, not an engraving, not a woodcut. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 21175
+ },
+ {
+  "name": "film/hero_chip",
+  "prompt": "Manga character art of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neatly swept-back SILVER-WHITE hair drawn as white paper with thin grey ink strands, thick black rectangular-framed eyeglasses with clear lenses, rounded friendly face with simplified manga features, black leather moto jacket drawn as large solid black shapes with a few sharp white highlights, wide lapels, diagonal zip, black crew-neck T-shirt. He proudly holds up a large square computer chip in his right hand at shoulder height, showing it to the viewer, five clearly drawn fingers gripping its edge. The chip is an original design with no logo and no letters; its central die is FLAT PURE RED (#FF0000). Everything else is black ink on white paper. Not photorealistic. Background: flat solid pure green (#00FF00) chroma key, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 21272
+ },
+ {
+  "name": "film/hero_desk",
+  "prompt": "Side-view manga panel of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neatly swept-back SILVER-WHITE hair drawn as white paper with thin grey ink strands, thick black rectangular-framed eyeglasses with clear lenses, rounded friendly face with simplified manga features, black leather moto jacket drawn as large solid black shapes with a few sharp white highlights, wide lapels, diagonal zip, black crew-neck T-shirt, sitting at a simple desk in a dim office at night, leaning forward, both hands on a keyboard, a monitor with a blank glowing white screen lighting his face, shelves behind him. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 21369
+ },
+ {
+  "name": "film/s_hands",
+  "prompt": "Close-up manga panel of two hands typing on a computer keyboard, the cuffs of a black leather jacket with zippers at the wrists, blank keys with no letters, motion lines on the fingers. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 21466
+ },
+ {
+  "name": "film/s_office",
+  "prompt": "Very wide manga panel of a huge dark empty open-plan office at night, rows of empty desks in perspective, one single desk lit by a lamp far in the distance with a tiny seated figure in a black jacket, tall windows with city lights. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 21563
+ },
+ {
+  "name": "film/s_dawn",
+  "prompt": "Wide establishing manga panel of a modern angular glass-and-steel technology campus building at sunrise: sun rays drawn as white wedges across the sky, long shadows across the plaza, birds flying, original architecture, no signs. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 21660
+ }
+]

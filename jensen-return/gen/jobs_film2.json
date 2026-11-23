@@ -1,0 +1,37 @@
+[
+ {
+  "name": "film/s_board2",
+  "prompt": "Wide manga panel of a corporate boardroom at night seen from the far end of a long polished table in one-point perspective, eight anonymous directors seated on both sides, ALL of them drawn as completely solid black silhouettes with no facial features, no visible skin and no white shirts, a large window with a city skyline behind them, dramatic backlight. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 31013
+ },
+ {
+  "name": "film/hero_turn2",
+  "prompt": "Manga character art of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neatly swept-back SILVER-WHITE hair drawn as white paper with thin grey ink strands, thick black rectangular-framed eyeglasses with clear lenses, rounded friendly face with simplified manga features, black leather moto jacket drawn as large solid black shapes with a few sharp white highlights, wide lapels, diagonal zip, black crew-neck T-shirt. Seen from behind at three-quarter, he turns his head back over his shoulder toward the viewer with a calm determined look, the glasses clearly visible. Half-body. Not photorealistic, not an engraving, not a woodcut. Everything is black ink on white paper. Background: flat solid pure green (#00FF00) chroma key filling the entire image from edge to edge, no white area, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 31102
+ },
+ {
+  "name": "film/s_eyes2",
+  "prompt": "Extreme close-up manga panel of the eyes of a 63-year-old East Asian man behind thick black rectangular-framed eyeglasses: narrow mature eyes, crow's feet wrinkles, heavy eyelids, calm determined gaze, a sharp white glint on one lens, silver-white eyebrows, forehead visible with silver-white hair swept back above it, no bangs, not a young anime face. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 31191
+ },
+ {
+  "name": "film/hero_chip2",
+  "prompt": "Manga character art of Jensen Huang, the Taiwanese-American technology CEO, age 63: short neatly swept-back SILVER-WHITE hair drawn as white paper with thin grey ink strands, thick black rectangular-framed eyeglasses with clear lenses, rounded friendly face with simplified manga features, black leather moto jacket drawn as large solid black shapes with a few sharp white highlights, wide lapels, diagonal zip, black crew-neck T-shirt. He proudly holds up a large square computer chip in his right hand at shoulder height, showing it to the viewer, five clearly drawn fingers gripping its edge. The chip is an original design: a metal frame, a ring of small dark memory dies around one big central die, no logo and no letters. The central die is FLAT PURE RED (#FF0000). Everything else is black ink on white paper. Not photorealistic. Background: flat solid pure green (#00FF00) chroma key filling the entire image, completely empty.",
+  "w": 1024,
+  "h": 1024,
+  "seed": 31280
+ },
+ {
+  "name": "film/s_office2",
+  "prompt": "Very wide manga panel of a huge open-plan office in near-total darkness at night: ceiling, walls and rows of empty desks drawn in solid black with only thin white rim lines; one single desk far in the distance lit by a lamp, its pool of light drawn as a white cone, a tiny seated figure in a black jacket at that desk; tall windows with tiny city lights. Not photorealistic, not an engraving. Everything is black ink on white paper, no colour. Fills the frame edge to edge.",
+  "w": 1536,
+  "h": 864,
+  "seed": 31369
+ }
+]

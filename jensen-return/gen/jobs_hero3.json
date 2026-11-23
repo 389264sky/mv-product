@@ -1,0 +1,38 @@
+[
+ {
+  "name": "hero3/smile_38",
+  "prompt": "Clean black-and-white Japanese manga ink drawing of the same man, same pose, same face: Jensen Huang, age 63, keep every facial proportion of the image, broad cheekbones, deep smile lines from nose to mouth corners, soft under-eye folds; voluminous silver-grey hair swept up and back drawn as white paper with flowing ink strands; thin metal half-rim rectangular eyeglasses; warm smile showing his teeth, shaded cheeks with screentone-like grey areas, dark suit collar. Only black ink and white paper, no skin colour, no logo, no letters. Background: flat solid pure green (#00FF00), completely empty.",
+  "w": 752,
+  "h": 1024,
+  "seed": 44017,
+  "init": "ink_smile.png",
+  "denoise": 0.38
+ },
+ {
+  "name": "hero3/smile_46",
+  "prompt": "Clean black-and-white Japanese manga ink drawing of the same man, same pose, same face: Jensen Huang, age 63, keep every facial proportion of the image, broad cheekbones, deep smile lines from nose to mouth corners, soft under-eye folds; voluminous silver-grey hair swept up and back drawn as white paper with flowing ink strands; thin metal half-rim rectangular eyeglasses; warm smile showing his teeth, shaded cheeks with screentone-like grey areas, dark suit collar. Only black ink and white paper, no skin colour, no logo, no letters. Background: flat solid pure green (#00FF00), completely empty.",
+  "w": 752,
+  "h": 1024,
+  "seed": 44017,
+  "init": "ink_smile.png",
+  "denoise": 0.46
+ },
+ {
+  "name": "hero3/hold_32",
+  "prompt": "Clean black-and-white Japanese manga ink drawing of the same man, same pose, same face: Jensen Huang, age 63, keep every facial proportion of the image, broad cheekbones, deep smile lines from nose to mouth corners, soft under-eye folds; voluminous silver-grey hair swept up and back drawn as white paper with flowing ink strands; thin metal half-rim rectangular eyeglasses; black textured leather jacket as large solid black shapes with sharp white highlights; his raised hand grips a large graphics card with two round fans, fingers clearly drawn around its edge. Only black ink and white paper, no skin colour, no logo, no letters. Background: flat solid pure green (#00FF00), completely empty.",
+  "w": 1520,
+  "h": 912,
+  "seed": 44023,
+  "init": "ink_hold.png",
+  "denoise": 0.32
+ },
+ {
+  "name": "hero3/hold_42",
+  "prompt": "Clean black-and-white Japanese manga ink drawing of the same man, same pose, same face: Jensen Huang, age 63, keep every facial proportion of the image, broad cheekbones, deep smile lines from nose to mouth corners, soft under-eye folds; voluminous silver-grey hair swept up and back drawn as white paper with flowing ink strands; thin metal half-rim rectangular eyeglasses; black textured leather jacket as large solid black shapes with sharp white highlights; his raised hand grips a large graphics card with two round fans, fingers clearly drawn around its edge. Only black ink and white paper, no skin colour, no logo, no letters. Background: flat solid pure green (#00FF00), completely empty.",
+  "w": 1520,
+  "h": 912,
+  "seed": 44023,
+  "init": "ink_hold.png",
+  "denoise": 0.42
+ }
+]
