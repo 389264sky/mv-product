@@ -50,7 +50,7 @@ python scripts/render.py . stills 60         # 第 60 秒一张 → out/stills/
 - 画面：`scene.js` 是入口，各段在 `jz_*.js`（`jz_lake.js` 冰湖、`jz_cosmos.js` 宇宙、`jz_town.js` 古镇、`jz_koi.js` 锦鲤、`jz_dragon.js` 金龙……）；镜头表和歌词版面在 `cues.json`，拍点和逐字歌词时间在 `song.json`。
 - `plan.md`、`NOTES.md`：作者做这支 MV 时的设计和记录。
 - `stems/`：用 demucs 从原曲分出来的人声、鼓、贝斯和其他四轨，对拍点、对歌词时用的，预览和渲染用不到。
-- `blender/`、`out/blender_cache/`：早期 3D 版的 Blender 素材和缓存，现在的版本不用。
+- `blender/`：早期 3D 版的 Blender 素材，现在的版本不用。
 - `title_glyphs.js` 是片名和尾声「祥」字的轮廓，由 `bake_title_glyphs.py` 从字体烘出来；换字体才要重跑。
 
 ## 署名与许可
