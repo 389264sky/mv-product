@@ -9,7 +9,7 @@
 | 封面 | MV | 说明 |
 |---|---|---|
 | <a href="we-together-forever-mv/"><img src="we-together-forever-mv/out/发布封面.jpg" width="320"></a> | **[我会等](we-together-forever-mv/)**<br>歌：《我会等》戴羽彤<br>约 3 分 53 秒 | 从校服到婚纱的表白 MV：黑底打字的片头，3D 动画人物，118 个照片位按时间线铺开（现在是占位图），每段配日期卡和告白。<br>[使用说明](we-together-forever-mv/README.md) · [草稿视频](we-together-forever-mv/out/mv_草稿.mp4) |
-| <a href="jingzhe-full/"><img src="jingzhe-full/out/封面.png" width="320"></a> | **[惊蛰](jingzhe-full/)**<br>歌：《惊蛰》音阙诗听 / 王梓钰<br>约 4 分 2 秒 | 冬夜冰湖下一粒火种，复燃成山火、惊雷、整个宇宙；春天化成锦鲤游过古镇，跃过龙门化成金龙飞回星海。同一段歌词唱两遍，画面走冬、春两个季节；每一帧都是代码画的（Canvas 2D、three.js 着色器）。<br>草稿 130M 超过 GitHub 上限，没放进仓库，要自己渲。 |
+| <a href="jingzhe-full/"><img src="jingzhe-full/out/封面.png" width="320"></a> | **[惊蛰](jingzhe-full/)**<br>歌：《惊蛰》音阙诗听 / 王梓钰<br>约 4 分 2 秒 | 冬夜冰湖下一粒火种，复燃成山火、惊雷、整个宇宙；春天化成锦鲤游过古镇，跃过龙门化成金龙飞回星海。同一段歌词唱两遍，画面走冬、春两个季节；每一帧都是代码画的（Canvas 2D、three.js 着色器）。<br>[使用说明](jingzhe-full/README.md)（草稿 130 MB 超过 GitHub 上限，没放进仓库，要自己渲） |
 
 ## 获取项目
 
