@@ -20,3 +20,12 @@ jensen-return/out/ref*.jpg
 jensen-return/**/*.log
 jensen-return/out/*.sh
 jensen-return/out/*_before_fix.*
+# xiaojiu-yihu：发布版 985M、草稿 157M 超过 GitHub 单文件上限；改前备份、日志、量帧中间数据不进仓库
+xiaojiu-yihu/out/mv_草稿.mp4
+xiaojiu-yihu/out/mv_发布.mp4
+xiaojiu-yihu/out/*.2026-*
+xiaojiu-yihu/**/*.log
+xiaojiu-yihu/out/flick.npy
+xiaojiu-yihu/out/flick.done
+xiaojiu-yihu/out/fr/
+xiaojiu-yihu/out/dbg.py

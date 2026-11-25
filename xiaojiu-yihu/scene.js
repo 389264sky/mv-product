@@ -1,0 +1,71 @@
+// scene.js —— 《小酒一壶》：画面在 shots_a.js / shots_b.js，零件在 core / land / crane / still / sea / flora，歌词在 lyric.js
+MV.scene({
+  bg: '#000',
+  async setup(M) { await XJ.init(M); },
+  shots: {
+    pour0(ctx, s, M) { XJ.S.pour0(ctx, s, M); },
+    dive(ctx, s, M) { XJ.S.dive(ctx, s, M); },
+    title(ctx, s, M) { XJ.S.title(ctx, s, M); },
+    v1a(ctx, s, M) { XJ.S.v1a(ctx, s, M); },
+    v1b(ctx, s, M) { XJ.S.v1b(ctx, s, M); },
+    v1c(ctx, s, M) { XJ.S.v1c(ctx, s, M); },
+    v1d(ctx, s, M) { XJ.S.v1d(ctx, s, M); },
+    v1e(ctx, s, M) { XJ.S.v1e(ctx, s, M); },
+    v1f(ctx, s, M) { XJ.S.v1f(ctx, s, M); },
+    v1g(ctx, s, M) { XJ.S.v1g(ctx, s, M); },
+    v1h(ctx, s, M) { XJ.S.v1h(ctx, s, M); },
+    c1a(ctx, s, M) { XJ.S.c1a(ctx, s, M); },
+    c1b(ctx, s, M) { XJ.S.c1b(ctx, s, M); },
+    c1c(ctx, s, M) { XJ.S.c1c(ctx, s, M); },
+    c1d(ctx, s, M) { XJ.S.c1d(ctx, s, M); },
+    c1e(ctx, s, M) { XJ.S.c1e(ctx, s, M); },
+    c1f(ctx, s, M) { XJ.S.c1f(ctx, s, M); },
+    c1g(ctx, s, M) { XJ.S.c1g(ctx, s, M); },
+    c1h(ctx, s, M) { XJ.S.c1h(ctx, s, M); },
+    c1i(ctx, s, M) { XJ.S.c1i(ctx, s, M); },
+    c1j(ctx, s, M) { XJ.S.c1j(ctx, s, M); },
+    i1(ctx, s, M) { XJ.S.i1(ctx, s, M); },
+    i2(ctx, s, M) { XJ.S.i2(ctx, s, M); },
+    i3(ctx, s, M) { XJ.S.i3(ctx, s, M); },
+    i4(ctx, s, M) { XJ.S.i4(ctx, s, M); },
+    v2a(ctx, s, M) { XJ.S.v2a(ctx, s, M); },
+    v2b(ctx, s, M) { XJ.S.v2b(ctx, s, M); },
+    v2c(ctx, s, M) { XJ.S.v2c(ctx, s, M); },
+    v2d(ctx, s, M) { XJ.S.v2d(ctx, s, M); },
+    v2e(ctx, s, M) { XJ.S.v2e(ctx, s, M); },
+    v2f(ctx, s, M) { XJ.S.v2f(ctx, s, M); },
+    v2g(ctx, s, M) { XJ.S.v2g(ctx, s, M); },
+    v2h(ctx, s, M) { XJ.S.v2h(ctx, s, M); },
+    c2a(ctx, s, M) { XJ.S.c2a(ctx, s, M); },
+    c2b(ctx, s, M) { XJ.S.c2b(ctx, s, M); },
+    c2c(ctx, s, M) { XJ.S.c2c(ctx, s, M); },
+    c2d(ctx, s, M) { XJ.S.c2d(ctx, s, M); },
+    c2e(ctx, s, M) { XJ.S.c2e(ctx, s, M); },
+    c2f(ctx, s, M) { XJ.S.c2f(ctx, s, M); },
+    c2g(ctx, s, M) { XJ.S.c2g(ctx, s, M); },
+    c2h(ctx, s, M) { XJ.S.c2h(ctx, s, M); },
+    c2i(ctx, s, M) { XJ.S.c2i(ctx, s, M); },
+    c3a(ctx, s, M) { XJ.S.c3a(ctx, s, M); },
+    c3b(ctx, s, M) { XJ.S.c3b(ctx, s, M); },
+    c3c(ctx, s, M) { XJ.S.c3c(ctx, s, M); },
+    c3d(ctx, s, M) { XJ.S.c3d(ctx, s, M); },
+    c3e(ctx, s, M) { XJ.S.c3e(ctx, s, M); },
+    c3f(ctx, s, M) { XJ.S.c3f(ctx, s, M); },
+    c3g(ctx, s, M) { XJ.S.c3g(ctx, s, M); },
+    c3h(ctx, s, M) { XJ.S.c3h(ctx, s, M); },
+    c3i(ctx, s, M) { XJ.S.c3i(ctx, s, M); },
+    o1(ctx, s, M) { XJ.S.o1(ctx, s, M); },
+    o2(ctx, s, M) { XJ.S.o2(ctx, s, M); },
+    o3(ctx, s, M) { XJ.S.o3(ctx, s, M); },
+  },
+  overlay(o, M) {
+    const a = M.t - M.ref('bar5') - .35, b = M.t - M.ref('bar105') - .3, sm = M.smooth;
+    const [lt, ta, dk] = a > 0 && a < 10 ? [a, sm(0, .3, a) * (1 - sm(7.45, 8.0, a)), sm(0, .9, a) * (1 - sm(7.8, 9.6, a))] : b > 0 ? [b, sm(0, .3, b) * (1 - sm(10.6, 12.2, b)), sm(0, .9, b)] : [0, 0, 0];   // dk：字后面的天色压暗，片头的跨过转场慢慢放开，不然字一退画面会亮一下
+    if (dk > .01 && !M.noLyrics) {
+      const g = o.createRadialGradient(0, 0, 0, 0, 0, 1); for (const [p, v] of [[0, .86], [.45, .70], [.75, .30], [1, 0]]) { const q = (c) => Math.round(255 + (c - 255) * v * dk); g.addColorStop(p, `rgb(${q(40)},${q(46)},${q(60)})`); }
+      o.save(); o.globalCompositeOperation = 'multiply'; o.translate(M.W / 2, 385); o.scale(1060, 500); o.fillStyle = g; o.beginPath(); o.arc(0, 0, 1, 0, M.TAU); o.fill(); o.restore();
+      if (ta > .01) XJ.drawTitle(o, lt, ta);
+    }
+    XJ.lyric(o, M);
+  },
+});
