@@ -34,11 +34,16 @@ python scripts/preview.py .
 
 ## 渲染
 
-> **本仓库不放视频**：草稿（157 MB）和成片都超过 GitHub 单文件 100 MB 的上限，用下面的命令自己渲。
+> **本仓库不放视频**（草稿 157 MB、成片都超过 GitHub 单文件 100 MB 的上限）。**装好上面的环境后，在工程目录里直接运行下面这一条就能得到成片** `out/mv.mp4`（1920×1080、60 帧，和作者发布的画面一样，只是没有片头卡）：
+>
+> ```
+> python scripts/render.py . video --subframes 8
+> ```
+
+其他命令：
 
 ```
 python scripts/render.py . video --draft              # 草稿 960×540、30 帧 → out/mv_草稿.mp4
-python scripts/render.py . video --subframes 8        # 成片 1920×1080、60 帧 → out/mv.mp4
 python scripts/render.py . shots                      # 每个镜头一张 → out/stills/
 python scripts/render.py . stills 60                  # 第 60 秒一张 → out/stills/
 ```
